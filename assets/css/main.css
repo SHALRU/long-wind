@@ -3,29 +3,6 @@
 Github：https://github.com/nianbroken/Personal_Sakura_Guide_Page
 Gitee：https://gitee.com/nianbroken/Personal_Sakura_Guide_Page
 */
-@-webkit-keyframes xf-wximg {
-	from {
-		-webkit-transform: scale(0);
-	}
-
-	to {
-		-webkit-transform: scale(1);
-	}
-}
-
-@keyframes xf-wximg {
-	from {
-		transform: scale(0);
-	}
-
-	to {
-		transform: scale(1);
-	}
-}
-
-
-
-
 
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300italic,600italic,300,600");
